@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b3628334-4f36-4bc7-81ec-142ec3f99c70" name="django2020" url="http://127.0.0.1">
+        <fileTransfer host="127.0.0.1" port="1234" rootFolder="/home/pyvip" accessType="SFTP">
+          <option name="port" value="1234" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

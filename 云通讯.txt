@@ -1,0 +1,19 @@
+注册邮箱lijuncheng93@163.com
+注册手机号13536020881
+密码cheng1993
+
+ACCOUNT SID：
+8aaf07087051bcec017099986c3526cd
+AUTH TOKEN：
+e526af42398a40d58be9ada3ec1420ac
+Rest URL(生产)：
+https://app.cloopen.com:8883
+AppID(默认)：
+8aaf07087051bcec017099986ca326d3未上线
+
+
+应用名称   AppID    API Key                  Secret Key
+dj_index 18580919  40W3rcjhQCkLgCiWgYU73q79  DQCQcDRITEKRsndONRUaGTbPfUC4h213 
+文字识别  16999854  lniZY34LW9sQMUk8cE9UESDh  G17szD4eEANItXO9RAZBV1kDkSoIg6Hj 
+
+图像识别  17029009  VowRTPds1txSIDowHCc8x6HW  InjM5h2PRGw7G4Fwlob2oZ5RXQMNh0Ml

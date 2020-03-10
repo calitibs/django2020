@@ -1,0 +1,54 @@
+{% extends 'base/base.html' %}
+
+{% block title %}
+{#    登录界面#}
+    {{ title }}
+{% endblock %}
+
+{% block link %}
+ <link rel="stylesheet" href="../../static/css/authPro/check_pwd.css">
+    <link rel="stylesheet" href="http://at.alicdn.com/t/font_1394462_1akddheenk8.css
+">
+{% endblock %}
+
+
+{% block main %}
+
+ <!-- container start -->
+<main id="container">
+  <div class="login-contain">
+    <div class="top-contain">
+      <h4 class="please-login">密码修改</h4>
+    </div>
+
+    <form action="" method="post" class="form-contain">
+      <div class="form-item">
+        <input type="tel" placeholder="请输入手机号" name="telephone" class="form-control" autocomplete="off">
+      </div>
+      <div class="form-item">
+        <input type="password" placeholder="请输入旧密码" name="old_password" class="form-control">
+      </div>
+        <div class="form-item">
+        <input type="password" placeholder="请输入新密码" name="new_password" class="form-control">
+      </div>
+
+        <div class="form-login">
+        <input type="submit" value="确定修改" class="login-btn">
+            <input type="reset" value="取消修改" class="login-btn">
+      </div>
+
+
+    </form>
+
+
+  </div>
+</main>
+<!-- container end -->
+
+{% endblock %}
+
+{% block script %}
+{#    <script src="../../static/js/user/register.js"></script>#}
+
+{% endblock %}
+
